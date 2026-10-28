@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportJSON", "ImportJSON\ImportJSON.csproj", "{8795043F-08E7-4FB1-AC26-C0AE2937564B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8795043F-08E7-4FB1-AC26-C0AE2937564B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8795043F-08E7-4FB1-AC26-C0AE2937564B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8795043F-08E7-4FB1-AC26-C0AE2937564B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8795043F-08E7-4FB1-AC26-C0AE2937564B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C5E5C0F-79EA-4B39-B81B-3BF5D653B5F2}
+	EndGlobalSection
+EndGlobal
